@@ -1,0 +1,67 @@
+"evento","categoria","rango","frecuencia"
+"incendio","incendio",2014-01-23 18:15:00,1
+"incendio","incendio",2014-01-23 18:30:00,75
+"incendio","incendio",2014-01-23 18:45:00,322
+"incendio","incendio",2014-01-23 19:00:00,95
+"incendio","incendio",2014-01-23 19:15:00,132
+"incendio","incendio",2014-01-23 19:30:00,32
+"incendio","incendio",2014-01-23 19:45:00,9
+"incendio","incendio",2014-01-23 20:00:00,10
+"incendio","incendio",2014-01-23 20:15:00,7
+"incendio","incendio",2014-01-23 20:30:00,69
+"incendio","incendio",2014-01-23 20:45:00,39
+"incendio","incendio",2014-01-23 21:00:00,20
+"incendio","incendio",2014-01-23 21:15:00,62
+"incendio","incendio",2014-01-23 21:30:00,36
+"incendio","paramedicos",2014-01-23 18:30:00,5
+"incendio","paramedicos",2014-01-23 18:45:00,32
+"incendio","paramedicos",2014-01-23 20:00:00,18
+"incendio","pedido unidades",2014-01-23 18:45:00,5
+"incendio","policia",2014-01-23 18:30:00,3
+"incendio","policia",2014-01-23 18:45:00,51
+"incendio","policia",2014-01-23 19:00:00,9
+"incendio","policia",2014-01-23 19:30:00,3
+"protesta","policia",2014-01-23 17:00:00,4
+"protesta","policia",2014-01-23 17:30:00,23
+"protesta","protesta",2014-01-23 17:00:00,122
+"protesta","protesta",2014-01-23 17:15:00,88
+"protesta","protesta",2014-01-23 17:30:00,4
+"protesta","protesta",2014-01-23 17:45:00,8
+"protesta","protesta",2014-01-23 18:45:00,7
+"protesta","protesta",2014-01-23 19:00:00,51
+"protesta","protesta",2014-01-23 19:15:00,45
+"protesta","protesta",2014-01-23 19:30:00,1
+"protesta","protesta",2014-01-23 19:45:00,1
+"tiroteo_persecucion","accidente vehicular",2014-01-23 19:15:00,53
+"tiroteo_persecucion","accidente vehicular",2014-01-23 19:30:00,13
+"tiroteo_persecucion","investigacion",2014-01-23 19:15:00,4
+"tiroteo_persecucion","investigacion",2014-01-23 19:45:00,6
+"tiroteo_persecucion","investigacion",2014-01-23 20:00:00,5
+"tiroteo_persecucion","investigacion",2014-01-23 21:15:00,11
+"tiroteo_persecucion","paramedicos",2014-01-23 19:15:00,5
+"tiroteo_persecucion","paramedicos",2014-01-23 19:30:00,25
+"tiroteo_persecucion","paramedicos",2014-01-23 19:45:00,42
+"tiroteo_persecucion","pedido unidades",2014-01-23 19:30:00,2
+"tiroteo_persecucion","persecucion",2014-01-23 19:15:00,52
+"tiroteo_persecucion","persecucion",2014-01-23 19:30:00,120
+"tiroteo_persecucion","persecucion",2014-01-23 20:15:00,24
+"tiroteo_persecucion","policia",2014-01-23 19:30:00,8
+"tiroteo_persecucion","policia",2014-01-23 19:45:00,67
+"tiroteo_persecucion","policia",2014-01-23 20:00:00,42
+"tiroteo_persecucion","policia",2014-01-23 20:15:00,15
+"tiroteo_persecucion","rehenes",2014-01-23 19:30:00,2
+"tiroteo_persecucion","rehenes",2014-01-23 19:45:00,5
+"tiroteo_persecucion","rehenes",2014-01-23 20:00:00,22
+"tiroteo_persecucion","rehenes",2014-01-23 20:15:00,2
+"tiroteo_persecucion","rehenes",2014-01-23 20:30:00,2
+"tiroteo_persecucion","rehenes",2014-01-23 20:45:00,3
+"tiroteo_persecucion","rehenes",2014-01-23 21:00:00,1
+"tiroteo_persecucion","rehenes",2014-01-23 21:15:00,59
+"tiroteo_persecucion","tiroteo",2014-01-23 19:30:00,135
+"tiroteo_persecucion","tiroteo",2014-01-23 19:45:00,91
+"tiroteo_persecucion","tiroteo",2014-01-23 20:00:00,88
+"tiroteo_persecucion","tiroteo",2014-01-23 20:15:00,36
+"tiroteo_persecucion","tiroteo",2014-01-23 20:30:00,24
+"tiroteo_persecucion","tiroteo",2014-01-23 20:45:00,3
+"tiroteo_persecucion","tiroteo",2014-01-23 21:00:00,5
+"tiroteo_persecucion","tiroteo",2014-01-23 21:15:00,4
